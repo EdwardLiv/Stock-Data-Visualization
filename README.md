@@ -1,6 +1,9 @@
 # Stock Data Visualization¶
 
 A collection of Plotly charts to visualize stocks from the Bucharest Stock Market (BVB) during a 10 year time period (2011-2021)
+
+❗ The output plots do not appear if viewed through GitHub, [click to use nbviewer instead](https://nbviewer.jupyter.org/github/EdwardLiv/Stock-Data-Visualization/blob/main/StockDataVisualization.ipynb)
+
 - stock data extraction with investpy
 - closing price line chart
 - candlestick chart
